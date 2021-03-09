@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIDLL", "UIDLL\UIDLL.csproj", "{057AA651-B234-4006-8266-97E0B7E6FE06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITest", "UITest\UITest.csproj", "{CAA3FE86-3A34-49D9-978B-A7F26C4B4DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057AA651-B234-4006-8266-97E0B7E6FE06}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{057AA651-B234-4006-8266-97E0B7E6FE06}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{057AA651-B234-4006-8266-97E0B7E6FE06}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{057AA651-B234-4006-8266-97E0B7E6FE06}.Release|anycpu.Build.0 = Release|Any CPU
+		{CAA3FE86-3A34-49D9-978B-A7F26C4B4DB3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CAA3FE86-3A34-49D9-978B-A7F26C4B4DB3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CAA3FE86-3A34-49D9-978B-A7F26C4B4DB3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CAA3FE86-3A34-49D9-978B-A7F26C4B4DB3}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14511DEC-0EF7-4CD9-80B7-E9823D9C4A62}
+	EndGlobalSection
+EndGlobal

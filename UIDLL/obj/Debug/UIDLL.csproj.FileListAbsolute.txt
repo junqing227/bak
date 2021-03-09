@@ -1,0 +1,6 @@
+/Users/shi/Projects/UITest/UIDLL/bin/Debug/UIDLL.dll
+/Users/shi/Projects/UITest/UIDLL/bin/Debug/UIDLL.pdb
+/Users/shi/Projects/UITest/UIDLL/obj/Debug/UIDLL.csprojAssemblyReference.cache
+/Users/shi/Projects/UITest/UIDLL/obj/Debug/UIDLL.csproj.CoreCompileInputs.cache
+/Users/shi/Projects/UITest/UIDLL/obj/Debug/UIDLL.dll
+/Users/shi/Projects/UITest/UIDLL/obj/Debug/UIDLL.pdb

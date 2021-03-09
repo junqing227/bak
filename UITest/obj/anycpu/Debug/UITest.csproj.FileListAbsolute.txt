@@ -1,0 +1,9 @@
+/Users/shi/Projects/UITest/UITest/obj/anycpu/Debug/UITest.csprojAssemblyReference.cache
+/Users/shi/Projects/UITest/UITest/obj/anycpu/Debug/UITest.csproj.CoreCompileInputs.cache
+/Users/shi/Projects/UITest/UITest/bin/Debug/UITest.exe
+/Users/shi/Projects/UITest/UITest/bin/Debug/UITest.pdb
+/Users/shi/Projects/UITest/UITest/obj/anycpu/Debug/UITest.exe
+/Users/shi/Projects/UITest/UITest/obj/anycpu/Debug/UITest.pdb
+/Users/shi/Projects/UITest/UITest/bin/Debug/UIDLL.dll
+/Users/shi/Projects/UITest/UITest/bin/Debug/UIDLL.pdb
+/Users/shi/Projects/UITest/UITest/obj/anycpu/Debug/UITest.csproj.CopyComplete
